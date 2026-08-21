@@ -95,7 +95,7 @@ This dashboard provides a centralized reporting solution for project monitoring 
 
 ## Dashboard Screenshot
 
-![DXR Project Dashboard](DXR_Project_Dashboard.png)
+![DXR Project Dashboard](DXR%20Project%20Dashboard.png)
 
 ---
 
